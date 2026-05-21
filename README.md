@@ -17,3 +17,5 @@ Pour exécuter ces scripts, assurez-vous que votre environnement répond aux exi
  | **PowerShell**    | Version 5.1 ou supérieure            | `$PSVersionTable` |
  | **Exécution**     | Autoriser les scripts PowerShell      | `Get-ExecutionPolicy` (doit être `RemoteSigned` ou `Unrestricted`) |
  | **Droits**        | Administrateur (pour certains scripts) | `whoami /groups` |
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
